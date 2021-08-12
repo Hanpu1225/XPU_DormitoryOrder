@@ -1,0 +1,2 @@
+level2 direction1 stuId1 stuName张三 roomID3 status2
+level:2 direction:1 stuId:1 stuName:张三 roomID:3 status:1 
